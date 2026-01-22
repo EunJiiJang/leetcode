@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/EunJiiJang/leetcode/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/EunJiiJang/leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/EunJiiJang/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
