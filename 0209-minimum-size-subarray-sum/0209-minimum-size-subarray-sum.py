@@ -4,6 +4,8 @@ class Solution:
         total = 0
         res = float('inf')
 
+        if sum(nums) < target: 
+            return 0
         for right in range(len(nums)):
             total += nums[right]
 
